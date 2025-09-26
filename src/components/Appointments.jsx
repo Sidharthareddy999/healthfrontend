@@ -347,7 +347,7 @@ export const Appointments = () => {
             )}
           </div>
         ))}
-            )}
+            )
           </>
         )}
       </div>
