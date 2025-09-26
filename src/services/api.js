@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_REACT_APP_API_URL || 'http://localhost:8081/api';
+const API_BASE_URL = import.meta.env.VITE_REACT_APP_API_URL || 'http://ec2-54-226-170-179.compute-1.amazonaws.com:8081/api';
 
 // Get current user ID from localStorage
 const getCurrentUserId = () => {
